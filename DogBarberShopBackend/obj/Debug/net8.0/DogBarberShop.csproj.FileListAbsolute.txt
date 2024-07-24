@@ -280,3 +280,4 @@ C:\Users\Oryan\DogBarberShop\DogBarberShopBackend\obj\Debug\net8.0\refint\DogBar
 C:\Users\Oryan\DogBarberShop\DogBarberShopBackend\obj\Debug\net8.0\DogBarberShop.pdb
 C:\Users\Oryan\DogBarberShop\DogBarberShopBackend\obj\Debug\net8.0\DogBarberShop.genruntimeconfig.cache
 C:\Users\Oryan\DogBarberShop\DogBarberShopBackend\obj\Debug\net8.0\ref\DogBarberShop.dll
+C:\Users\Oryan\DogBarberShop\DogBarberShopBackend\obj\Debug\net8.0\DogBarberShop.sourcelink.json
